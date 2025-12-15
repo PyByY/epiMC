@@ -1,4 +1,4 @@
-# Pybyy Launcher Hub
+# PyByY Launcher Hub
 
 A simple launcher hub that uses Prism Launcher and PowerShell to open games you already own.
 
